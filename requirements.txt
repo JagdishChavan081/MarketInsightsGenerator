@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+ipython
+ipykernel
+requests
+beautifulsoup4
+psycopg2
